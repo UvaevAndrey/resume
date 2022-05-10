@@ -5,5 +5,5 @@
 1. Верстка HTML
 2. Работа с CSS
 
-https://github.com/UvaevAndrey/resume
+![Image alt](https://github.com/UvaevAndrey/resume)
 
