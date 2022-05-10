@@ -5,4 +5,5 @@
 1. Верстка HTML
 2. Работа с CSS
 
-img/532.png
+https://github.com/UvaevAndrey/resume
+
